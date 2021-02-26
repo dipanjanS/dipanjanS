@@ -1,3 +1,5 @@
-#### I don't need a README. Is that an oxymoron ? 🤔 
+#### I am too lazy to write a README. My apologies! 🤔 
 
 #### Help yourselves to some good content below.
+
+Collaboration opportunities? [Contact me](https://bit.ly/djs_linkedin)
